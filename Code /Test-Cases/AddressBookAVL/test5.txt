@@ -1,0 +1,13 @@
+1 90 hossam 012877990220 hossam@gmail.com
+1 50 abdallah 012128728739 abdo@gmail.com
+1 60 loai 0121298983 loai@gmail.com
+4
+1 70 hisham 01119232232 hisham@gmail.com
+1 80 hoda 01212819892 hoda@gmail.com
+1 1 mariam 01012902932 mariam@gmail.com
+4
+2 1
+2 10000000000000
+2 70
+3
+5

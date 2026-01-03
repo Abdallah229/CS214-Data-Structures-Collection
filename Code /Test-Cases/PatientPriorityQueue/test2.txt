@@ -1,0 +1,10 @@
+Ahmed 10
+Hoda 5
+Charlie 100
+Hassan 82
+Eve 20
+Frank 100
+Grace 95
+Henry 1
+Mariam -1090
+Hisham 0

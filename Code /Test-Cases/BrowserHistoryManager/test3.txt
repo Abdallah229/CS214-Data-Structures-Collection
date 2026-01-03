@@ -1,0 +1,14 @@
+1 google.com 
+4 
+1 codeforces.com
+4
+1 codeforces.com/problemset
+4 
+1 codeforces.com/problemset/problem/2107/F1
+4 
+3
+4
+3
+4
+1 facebook.com
+4

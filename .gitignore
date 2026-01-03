@@ -1,0 +1,30 @@
+# -------------------
+# Compiled Binaries
+# -------------------
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+# -------------------
+# IDE & Editor Settings
+# -------------------
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.pdb
+*.sln
+
+# JetBrains (CLion, etc.)
+.idea/
+cmake-build-*/
+
+# -------------------
+# OS System Files
+# -------------------
+.DS_Store
+Thumbs.db

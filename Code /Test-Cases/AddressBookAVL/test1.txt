@@ -1,0 +1,12 @@
+1 10 Alice 01012345678 alice@example.com
+1 5 Bob 01023456789 bob@example.com
+1 15 Charlie 01034567890 charlie@example.com
+1 3 Diana 01045678901 diana@example.com
+1 7 Evan 01056789012 evan@example.com
+2 5
+2 12
+4
+1 2 Adham 01555555987 adhem@gmail.com
+1 1 mahmoud 01558255987 hoda@gmail.com
+3
+5
